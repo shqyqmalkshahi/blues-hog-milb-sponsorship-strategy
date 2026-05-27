@@ -98,7 +98,8 @@ This strategy transforms sponsorship from a brand-awareness activity into a reve
 
 ## Project Structure
 
-- `.pptx` → strategy presentation and analysis  
+- `milb_sponsorship_strategy_blues_hog.pptx` → strategy presentation and analysis
+- `milb_sponsorship_strategy_blues_hog.pdf` → PDF version for easy viewing
 
 ---
 
